@@ -16,6 +16,7 @@ import { MySkillsComponent } from './my-skills/my-skills.component';
 import { SkillsComponent } from './skills/skills.component';
 import { ZoomoutComponent } from './zoomout/zoomout.component';
 import { ContactContentComponent } from './contact-content/contact-content.component';
+import { IconsComponent } from './icons/icons.component';
 
 
 @NgModule({
@@ -32,7 +33,8 @@ import { ContactContentComponent } from './contact-content/contact-content.compo
     MySkillsComponent,
     SkillsComponent,
     ZoomoutComponent,
-    ContactContentComponent
+    ContactContentComponent,
+    IconsComponent
   ],
   imports: [
     BrowserModule,
