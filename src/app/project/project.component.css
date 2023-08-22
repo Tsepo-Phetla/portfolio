@@ -1,0 +1,9 @@
+.projects{
+    justify-content: center;
+    align-items: cente;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    padding: 30px;
+}

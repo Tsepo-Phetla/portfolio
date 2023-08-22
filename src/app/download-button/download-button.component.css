@@ -1,0 +1,19 @@
+
+.download-link {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 10px; 
+  transform :translate(-125%);
+  margin-bottom: 90px;
+  }
+  
+  /* Styles for the download button */
+  .download-button {
+    background-color: #00ffff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }

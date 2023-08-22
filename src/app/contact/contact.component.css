@@ -1,0 +1,8 @@
+.contact{
+    flex: 1;
+    padding-right: 20px;
+    justify-content:center;
+    align-items: center;
+    text-align:center;
+    padding: 20px;
+}
